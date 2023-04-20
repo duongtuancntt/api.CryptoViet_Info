@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "ecosystems",
+  "collectionName": "ntfs",
   "info": {
-    "singularName": "ecosystem",
-    "pluralName": "ecosystems",
-    "displayName": "He Sinh Thai",
+    "singularName": "ntf",
+    "pluralName": "ntfs",
+    "displayName": "NTF",
     "description": ""
   },
   "options": {
@@ -13,7 +13,8 @@
   "pluginOptions": {},
   "attributes": {
     "Name": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "slug": {
       "type": "uid",

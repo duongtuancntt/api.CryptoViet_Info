@@ -1,11 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "ecosystems",
+  "collectionName": "cv_ecosystems",
   "info": {
-    "singularName": "ecosystem",
-    "pluralName": "ecosystems",
-    "displayName": "He Sinh Thai",
-    "description": ""
+    "singularName": "cv-ecosystem",
+    "pluralName": "cv-ecosystems",
+    "displayName": "CV Ecosystem"
   },
   "options": {
     "draftAndPublish": true

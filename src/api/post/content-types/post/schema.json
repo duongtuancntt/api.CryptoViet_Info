@@ -55,6 +55,16 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::ecosystem.ecosystem"
+    },
+    "ntf": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::ntf.ntf"
+    },
+    "cv_ecosystem": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::cv-ecosystem.cv-ecosystem"
     }
   }
 }
